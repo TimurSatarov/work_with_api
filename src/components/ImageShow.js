@@ -1,4 +1,6 @@
-function ImageShow(){
-    <div>ImageShow</div>
+function ImageShow({image}){
+    return (
+    <div>{image.name}</div>
+    );
 }
 export default ImageShow;
