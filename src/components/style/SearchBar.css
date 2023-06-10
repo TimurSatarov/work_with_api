@@ -1,0 +1,16 @@
+.search-bar{
+    border: 3px solid lightgray;
+    background-color: lavender;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.search_bar form {
+    display: flex;
+    flex-direction: column;
+}
+input{
+    border: 2px solid rgb(148, 178, 129);
+    height: 20px;
+    text-align: center;
+}
